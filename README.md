@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0E75B6" alt="Profile views" />
+  <a href="https://github.com/Sahand-Jalali">
+    <img src="https://komarev.com/ghpvc/?username=Sahand-JalaliE&style=for-the-badge&color=0E75B6" alt="Profile views" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 ## 🧰 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,matlab&theme=dark" alt="Programming tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,matlab,linux&theme=dark" alt="Programming tools and technologies" />
 </p>
 
 ### Currently exploring
