@@ -34,7 +34,7 @@
 ## 🧰 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark" alt="Programming tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,matlab&theme=dark" alt="Programming tools and technologies" />
 </p>
 
 ### Currently exploring
