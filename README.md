@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:00D9FF&height=200&section=header&text=Sahand%20Jalali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20%7C%20AI%20%7C%20Software&descSize=16&descAlignY=55" width="100%" alt="Sahand Jalali profile banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Sahand 👋</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student;Exploring+Artificial+Intelligence+%26+ML;Learning+Embedded+Systems+%26+Control;Building+Projects%2C+One+Step+at+a+Time" alt="Typing animation" />
