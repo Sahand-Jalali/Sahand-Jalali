@@ -1,7 +1,7 @@
  <!-- Animated header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:00D9FF&height=200&section=header&text=Sahand%20Jalali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20%7C%20AI%20%7C%20Software&descSize=16&descAlignY=55" width="100%" alt="Sahand Jalali profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:075985,100:00D9FF&height=200&section=header&text=Sahand%20Jalali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20%7C%20AI%20%7C%20ML&descSize=16&descAlignY=55" width="100%" alt="Sahand Jalali profile banner" />
 </p>
 
 <p align="center">
@@ -66,12 +66,12 @@ I'm building my portfolio through practical projects in programming, AI, and eng
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahand-Jalali&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Jalali&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Sahand-Jalali&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
